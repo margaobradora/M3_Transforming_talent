@@ -1,5 +1,24 @@
-# Evaluación Marga Obrador - Data Analytics Módulo 3 - Diciembre 2023 -- Adalab 
+# Transformando el Talento: Análisis de Datos para Retener y Potenciar Empleados en ABC Corporation
 
+# Proyecto: Mejora de Retención y Satisfacción de Empleados
+
+En el entorno empresarial altamente competitivo de hoy en día, la toma de decisiones informadas es esencial para el éxito a largo plazo. La retención de empleados y la satisfacción en el trabajo son cuestiones críticas para cualquier organización, ya que afectan directamente a la productividad, la moral y la rentabilidad.
+
+## Descripción del Proyecto
+
+Con el objetivo de reducir la rotación de empleados y mejorar la satisfacción en el trabajo, la empresa ABC Corporation nos ha contratado para desarrollar un proyecto de análisis de datos y experimentación A/B de gran alcance. Nuestra misión es identificar factores clave que influyen en la satisfacción en el trabajo y, en última instancia, en la retención de empleados.
+
+En este proyecto, presentaremos los resultados de nuestro análisis exploratorio de datos, diseñaremos un experimento A/B para probar hipótesis críticas y analizaremos los resultados para proporcionar a ABC Corporation información valiosa que informe sus decisiones estratégicas.
+
+## Acerca de ABC Corporation
+
+**ABC Corporation**, fundada en 1980 en California, es una consultora tecnológica especializada en ofrecer soluciones de inteligencia artificial (IA) y aprendizaje automático (machine learning) a empresas de diversos sectores. Su enfoque principal radica en automatizar y optimizar procesos empresariales mediante tecnologías de vanguardia.
+
+La empresa se distingue por tener un equipo multidisciplinario que abarca expertos en UX/UI, marketing, analistas, científicos de datos y otros campos relevantes. Esta diversidad permite una sinergia única entre conocimientos técnicos especializados y perspectivas variadas, lo que les permite ofrecer soluciones personalizadas adaptadas a las necesidades individuales de cada cliente.
+
+## Último Proyecto Destacado
+
+El último proyecto donde ha estado implicada la empresa ha sido la optimización de procesos de selección de personal. Para ello, la empresa ha desarrollado una plataforma de selección inteligente donde los empleados pueden analizar automáticamente los CV de posibles candidatas, identificar sus habilidades clave y, finalmente, clasificar los candidatos según su idoneidad para determinados roles. Además, han creado un sistema de recomendación para sugerir a los reclutadores los mejores candidatos.
 
 ---
 
@@ -39,5 +58,3 @@ Agrupa los datos por nivel educativo y calcula estadísticas descriptivas básic
 #### Prueba Estadística:
 
 Realiza una prueba de A/B testing para determinar si existe una diferencia significativa en el número de vuelos reservados entre los diferentes niveles educativos.
-
----
