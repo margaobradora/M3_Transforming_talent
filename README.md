@@ -1,4 +1,4 @@
-# Transformando el Talento: Análisis de Datos para Retener y Potenciar Empleados en ABC Corporation
+
 
 # Proyecto: Mejora de Retención y Satisfacción de Empleados
 
